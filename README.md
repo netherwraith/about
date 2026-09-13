@@ -4,7 +4,7 @@ I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security
 - 🔭 Always working on articles and in-depths that are related to the OS above and all Cloud-driven solutions with privacy in mind
 - 🌱 Always learning, trying to get the big whole
 - 🪂 Often disjointed but easy to thrill when it comes to discover something new
-- Currently exploring the Fediverse with <a rel="me" href="[https://demanufacture.org/@wraith](https://runespaces.com/@hrafnagud)">GoToSocial</a>, <a href="https://photos.fedi.one/@oliver">Vernissage</a> and <a href="https://loops.fedi.one/@oliver">Loops</a>
+- Currently exploring the Fediverse with <a rel="me" href="https://demanufacture.org/@wraith](https://runespaces.com/@hrafnagud)">GoToSocial</a>, <a href="https://photos.fedi.one/@oliver">Vernissage</a> and <a href="https://loops.fedi.one/@oliver">Loops</a>
 - Find my <a href="[https://keyoxide.org/AF953733C09F6368797CA49E2F4968B5F7988AA5]([https://keyoxide.org/A93687BCEACFB686F75518ED1E68ED76777545CA](https://keyoxide.org/A93687BCEACFB686F75518ED1E68ED76777545CA))">Keyoxide</a>-profile & key <a href="[https://keyoxide.org/AF953733C09F6368797CA49E2F4968B5F7988AA5](https://keyoxide.org/A93687BCEACFB686F75518ED1E68ED76777545CA)">here</a>!
 
 ## Support me
